@@ -32,3 +32,6 @@ script/setup
 ```shell
 hass --open-ui --config ./configuration/
 ```
+# Default login 
+username : user
+password : 1234user
